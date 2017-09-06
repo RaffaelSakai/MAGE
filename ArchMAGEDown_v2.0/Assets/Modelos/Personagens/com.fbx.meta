@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: f833043f754d3914bbe87f74c24ee884
+timeCreated: 1497497415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anelar_dir_1
+    100002: anelar_dir_2
+    100004: anelar_dir_3
+    100006: anelar_dir_fim
+    100008: anelar_esq_1
+    100010: anelar_esq_2
+    100012: anelar_esq_3
+    100014: anelar_esq_fim
+    100016: bacia
+    100018: calcanhar_dir
+    100020: calcanhar_esq
+    100022: coluna_1
+    100024: coluna_2
+    100026: //RootNode
+    100028: cotovelo_dir_1
+    100030: cotovelo_dir_2
+    100032: cotovelo_esq_1
+    100034: cotovelo_esq_2
+    100036: dedao_dir_1
+    100038: dedao_dir_2
+    100040: dedao_dir_3
+    100042: dedao_dir_fim
+    100044: dedao_esq_1
+    100046: dedao_esq_2
+    100048: dedao_esq_3
+    100050: dedao_esq_fim
+    100052: dedoMeio_dir_1
+    100054: dedoMeio_dir_2
+    100056: dedoMeio_dir_3
+    100058: dedoMeio_dir_fim
+    100060: dedoMeio_esq_1
+    100062: dedoMeio_esq_2
+    100064: dedoMeio_esq_3
+    100066: dedoMeio_esq_fim
+    100068: Goblin:Mesh1
+    100070: indicador_dir_1
+    100072: indicador_dir_2
+    100074: indicador_dir_3
+    100076: indicador_dir_fim
+    100078: indicador_esq_1
+    100080: indicador_esq_2
+    100082: indicador_esq_3
+    100084: indicador_esq_fim
+    100086: joelho_dir
+    100088: joelho_esq
+    100090: joint1
+    100092: joint2
+    100094: joint3
+    100096: mao_1
+    100098: mao_1 1
+    100100: mao_2
+    100102: mao_2 1
+    100104: mindinho_dir_1
+    100106: mindinho_dir_2
+    100108: mindinho_dir_3
+    100110: mindinho_dir_fim
+    100112: mindinho_esq_1
+    100114: mindinho_esq_2
+    100116: mindinho_esq_3
+    100118: mindinho_esq_fim
+    100120: ombro_dir
+    100122: ombro_esq
+    100124: pe_dir
+    100126: pe_dir_fim
+    100128: pe_esq
+    100130: pe_esq_fim
+    100132: peito_dir
+    100134: peito_esq
+    100136: perna_dir
+    100138: perna_esq
+    100140: pescoco
+    100142: root
+    100144: root_2
+    400000: anelar_dir_1
+    400002: anelar_dir_2
+    400004: anelar_dir_3
+    400006: anelar_dir_fim
+    400008: anelar_esq_1
+    400010: anelar_esq_2
+    400012: anelar_esq_3
+    400014: anelar_esq_fim
+    400016: bacia
+    400018: calcanhar_dir
+    400020: calcanhar_esq
+    400022: coluna_1
+    400024: coluna_2
+    400026: //RootNode
+    400028: cotovelo_dir_1
+    400030: cotovelo_dir_2
+    400032: cotovelo_esq_1
+    400034: cotovelo_esq_2
+    400036: dedao_dir_1
+    400038: dedao_dir_2
+    400040: dedao_dir_3
+    400042: dedao_dir_fim
+    400044: dedao_esq_1
+    400046: dedao_esq_2
+    400048: dedao_esq_3
+    400050: dedao_esq_fim
+    400052: dedoMeio_dir_1
+    400054: dedoMeio_dir_2
+    400056: dedoMeio_dir_3
+    400058: dedoMeio_dir_fim
+    400060: dedoMeio_esq_1
+    400062: dedoMeio_esq_2
+    400064: dedoMeio_esq_3
+    400066: dedoMeio_esq_fim
+    400068: Goblin:Mesh1
+    400070: indicador_dir_1
+    400072: indicador_dir_2
+    400074: indicador_dir_3
+    400076: indicador_dir_fim
+    400078: indicador_esq_1
+    400080: indicador_esq_2
+    400082: indicador_esq_3
+    400084: indicador_esq_fim
+    400086: joelho_dir
+    400088: joelho_esq
+    400090: joint1
+    400092: joint2
+    400094: joint3
+    400096: mao_1
+    400098: mao_1 1
+    400100: mao_2
+    400102: mao_2 1
+    400104: mindinho_dir_1
+    400106: mindinho_dir_2
+    400108: mindinho_dir_3
+    400110: mindinho_dir_fim
+    400112: mindinho_esq_1
+    400114: mindinho_esq_2
+    400116: mindinho_esq_3
+    400118: mindinho_esq_fim
+    400120: ombro_dir
+    400122: ombro_esq
+    400124: pe_dir
+    400126: pe_dir_fim
+    400128: pe_esq
+    400130: pe_esq_fim
+    400132: peito_dir
+    400134: peito_esq
+    400136: perna_dir
+    400138: perna_esq
+    400140: pescoco
+    400142: root
+    400144: root_2
+    4300000: Goblin:Mesh1
+    9500000: //RootNode
+    13700000: Goblin:Mesh1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

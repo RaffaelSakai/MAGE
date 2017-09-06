@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: e881fefe012b05b448310251a6078ecf
+timeCreated: 1498108024
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bacia_A
+    100002: bacia_B
+    100004: Braco_D
+    100006: Braco_E
+    100008: cabeca
+    100010: Clavicula_D
+    100012: Clavicula_E
+    100014: coluna_A
+    100016: coluna_B
+    100018: face
+    100020: group1
+    100022: group11
+    100024: group12
+    100026: group3
+    100028: group4
+    100030: group5
+    100032: group6
+    100034: group7
+    100036: group8
+    100038: group9
+    100040: Indicador_D_A
+    100042: Indicador_D_B
+    100044: Indicador_D_fim
+    100046: Indicador_E_A
+    100048: Indicador_E_B
+    100050: Indicador_E_fim
+    100052: Mao_D
+    100054: Mao_E
+    100056: nurbsCircle1
+    100058: nurbsCircle12
+    100060: nurbsCircle2
+    100062: nurbsCircle3
+    100064: nurbsCircle4
+    100066: nurbsCircle5
+    100068: nurbsCircle6
+    100070: nurbsCircle7
+    100072: nurbsCircle8
+    100074: Ombro_D
+    100076: Ombro_E
+    100078: pe_D_fim
+    100080: pe_E
+    100082: pe_E 1
+    100084: pe_E_fim
+    100086: perna_D_A
+    100088: perna_D_B
+    100090: perna_D_C
+    100092: perna_E_A
+    100094: perna_E_B
+    100096: perna_E_C
+    100098: pescoco
+    100100: polegar_D_A
+    100102: polegar_D_B
+    100104: polegar_D_fim
+    100106: polegar_E_A
+    100108: polegar_E_B
+    100110: polegar_E_fim
+    100112: polySurface1
+    100114: //RootNode
+    100116: root
+    400000: bacia_A
+    400002: bacia_B
+    400004: Braco_D
+    400006: Braco_E
+    400008: cabeca
+    400010: Clavicula_D
+    400012: Clavicula_E
+    400014: coluna_A
+    400016: coluna_B
+    400018: face
+    400020: group1
+    400022: group11
+    400024: group12
+    400026: group3
+    400028: group4
+    400030: group5
+    400032: group6
+    400034: group7
+    400036: group8
+    400038: group9
+    400040: Indicador_D_A
+    400042: Indicador_D_B
+    400044: Indicador_D_fim
+    400046: Indicador_E_A
+    400048: Indicador_E_B
+    400050: Indicador_E_fim
+    400052: Mao_D
+    400054: Mao_E
+    400056: nurbsCircle1
+    400058: nurbsCircle12
+    400060: nurbsCircle2
+    400062: nurbsCircle3
+    400064: nurbsCircle4
+    400066: nurbsCircle5
+    400068: nurbsCircle6
+    400070: nurbsCircle7
+    400072: nurbsCircle8
+    400074: Ombro_D
+    400076: Ombro_E
+    400078: pe_D_fim
+    400080: pe_E
+    400082: pe_E 1
+    400084: pe_E_fim
+    400086: perna_D_A
+    400088: perna_D_B
+    400090: perna_D_C
+    400092: perna_E_A
+    400094: perna_E_B
+    400096: perna_E_C
+    400098: pescoco
+    400100: polegar_D_A
+    400102: polegar_D_B
+    400104: polegar_D_fim
+    400106: polegar_E_A
+    400108: polegar_E_B
+    400110: polegar_E_fim
+    400112: polySurface1
+    400114: //RootNode
+    400116: root
+    4300000: polySurface1
+    7400000: Walk
+    7400002: Jump
+    7400004: Double_Jump
+    7400006: InAir
+    7400008: Fall
+    7400010: Fireball
+    7400012: StoneOn
+    7400014: StoneOff
+    7400016: Idle
+    9500000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Protagonista_Anim
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Protagonista_Anim
+      firstFrame: 30
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Double_Jump
+      takeName: Protagonista_Anim
+      firstFrame: 55
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InAir
+      takeName: Protagonista_Anim
+      firstFrame: 61
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fall
+      takeName: Protagonista_Anim
+      firstFrame: 81
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fireball
+      takeName: Protagonista_Anim
+      firstFrame: 92
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StoneOn
+      takeName: Protagonista_Anim
+      firstFrame: 120
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StoneOff
+      takeName: Protagonista_Anim
+      firstFrame: 135
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/group1
+        weight: 1
+      - path: group11/group1/nurbsCircle1
+        weight: 1
+      - path: group11/group3
+        weight: 1
+      - path: group11/group3/nurbsCircle2
+        weight: 1
+      - path: group11/group7
+        weight: 1
+      - path: group11/group7/group6
+        weight: 1
+      - path: group11/group7/group6/group5
+        weight: 1
+      - path: group11/group7/group6/group5/group4
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group8/nurbsCircle7
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group9/nurbsCircle8
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/group12/nurbsCircle12
+        weight: 1
+      - path: group11/group7/group6/group5/group4/nurbsCircle3
+        weight: 1
+      - path: group11/group7/group6/group5/nurbsCircle4
+        weight: 1
+      - path: group11/group7/group6/nurbsCircle5
+        weight: 1
+      - path: group11/group7/nurbsCircle6
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/bacia_A
+        weight: 1
+      - path: root/bacia_A/bacia_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_D_A/perna_D_B/perna_D_C/pe_E/pe_D_fim
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1
+        weight: 1
+      - path: root/bacia_A/bacia_B/perna_E_A/perna_E_B/perna_E_C/pe_E 1/pe_E_fim
+        weight: 1
+      - path: root/coluna_A
+        weight: 1
+      - path: root/coluna_A/coluna_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/Indicador_D_A/Indicador_D_B/Indicador_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_D/Ombro_D/Braco_D/Mao_D/polegar_D_A/polegar_D_B/polegar_D_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/Indicador_E_A/Indicador_E_B/Indicador_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B
+        weight: 1
+      - path: root/coluna_A/coluna_B/Clavicula_E/Ombro_E/Braco_E/Mao_E/polegar_E_A/polegar_E_B/polegar_E_fim
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca
+        weight: 1
+      - path: root/coluna_A/coluna_B/pescoco/cabeca/face
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

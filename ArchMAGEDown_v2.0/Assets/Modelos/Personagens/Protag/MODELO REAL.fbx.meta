@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 9d46602d9c9f88344a6d57bd8b8cec90
+timeCreated: 1503016847
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bacia_A
+    100002: bacia_B
+    100004: Braco_D
+    100006: Braco_E
+    100008: cabeca
+    100010: Clavicula_D
+    100012: Clavicula_E
+    100014: coluna_A
+    100016: coluna_B
+    100018: face
+    100020: Indicador_D_A
+    100022: Indicador_D_B
+    100024: Indicador_D_fim
+    100026: Indicador_E_A
+    100028: Indicador_E_B
+    100030: Indicador_E_fim
+    100032: Mao_D
+    100034: Mao_E
+    100036: Ombro_D
+    100038: Ombro_E
+    100040: pe_D_fim
+    100042: pe_E
+    100044: pe_E 1
+    100046: pe_E_fim
+    100048: perna_D_A
+    100050: perna_D_B
+    100052: perna_D_C
+    100054: perna_E_A
+    100056: perna_E_B
+    100058: perna_E_C
+    100060: pescoco
+    100062: polegar_D_A
+    100064: polegar_D_B
+    100066: polegar_D_fim
+    100068: polegar_E_A
+    100070: polegar_E_B
+    100072: polegar_E_fim
+    100074: polySurface2
+    100076: //RootNode
+    100078: root
+    400000: bacia_A
+    400002: bacia_B
+    400004: Braco_D
+    400006: Braco_E
+    400008: cabeca
+    400010: Clavicula_D
+    400012: Clavicula_E
+    400014: coluna_A
+    400016: coluna_B
+    400018: face
+    400020: Indicador_D_A
+    400022: Indicador_D_B
+    400024: Indicador_D_fim
+    400026: Indicador_E_A
+    400028: Indicador_E_B
+    400030: Indicador_E_fim
+    400032: Mao_D
+    400034: Mao_E
+    400036: Ombro_D
+    400038: Ombro_E
+    400040: pe_D_fim
+    400042: pe_E
+    400044: pe_E 1
+    400046: pe_E_fim
+    400048: perna_D_A
+    400050: perna_D_B
+    400052: perna_D_C
+    400054: perna_E_A
+    400056: perna_E_B
+    400058: perna_E_C
+    400060: pescoco
+    400062: polegar_D_A
+    400064: polegar_D_B
+    400066: polegar_D_fim
+    400068: polegar_E_A
+    400070: polegar_E_B
+    400072: polegar_E_fim
+    400074: polySurface2
+    400076: //RootNode
+    400078: root
+    4300000: polySurface2
+    7400000: Protagonista_Anim
+    9500000: //RootNode
+    13700000: polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

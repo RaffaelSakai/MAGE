@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 14fc42ad6f4833c49a1c1e3d9ab49d5e
+timeCreated: 1498150378
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bacia_A
+    100002: bacia_B
+    100004: Braco_D
+    100006: Braco_E
+    100008: cabeca
+    100010: Clavicula_D
+    100012: Clavicula_E
+    100014: coluna_A
+    100016: coluna_B
+    100018: face
+    100020: group11
+    100022: group5
+    100024: group6
+    100026: group7
+    100028: Indicador_D_A
+    100030: Indicador_D_B
+    100032: Indicador_D_fim
+    100034: Indicador_E_A
+    100036: Indicador_E_B
+    100038: Indicador_E_fim
+    100040: Mao_D
+    100042: Mao_E
+    100044: nurbsCircle11
+    100046: nurbsCircle4
+    100048: Ombro_D
+    100050: Ombro_E
+    100052: pe_D_fim
+    100054: pe_E
+    100056: pe_E 1
+    100058: pe_E_fim
+    100060: perna_D_A
+    100062: perna_D_B
+    100064: perna_D_C
+    100066: perna_E_A
+    100068: perna_E_B
+    100070: perna_E_C
+    100072: pescoco
+    100074: polegar_D_A
+    100076: polegar_D_B
+    100078: polegar_D_fim
+    100080: polegar_E_A
+    100082: polegar_E_B
+    100084: polegar_E_fim
+    100086: polySurface2
+    100088: //RootNode
+    100090: root
+    400000: bacia_A
+    400002: bacia_B
+    400004: Braco_D
+    400006: Braco_E
+    400008: cabeca
+    400010: Clavicula_D
+    400012: Clavicula_E
+    400014: coluna_A
+    400016: coluna_B
+    400018: face
+    400020: group11
+    400022: group5
+    400024: group6
+    400026: group7
+    400028: Indicador_D_A
+    400030: Indicador_D_B
+    400032: Indicador_D_fim
+    400034: Indicador_E_A
+    400036: Indicador_E_B
+    400038: Indicador_E_fim
+    400040: Mao_D
+    400042: Mao_E
+    400044: nurbsCircle11
+    400046: nurbsCircle4
+    400048: Ombro_D
+    400050: Ombro_E
+    400052: pe_D_fim
+    400054: pe_E
+    400056: pe_E 1
+    400058: pe_E_fim
+    400060: perna_D_A
+    400062: perna_D_B
+    400064: perna_D_C
+    400066: perna_E_A
+    400068: perna_E_B
+    400070: perna_E_C
+    400072: pescoco
+    400074: polegar_D_A
+    400076: polegar_D_B
+    400078: polegar_D_fim
+    400080: polegar_E_A
+    400082: polegar_E_B
+    400084: polegar_E_fim
+    400086: polySurface2
+    400088: //RootNode
+    400090: root
+    4300000: polySurface2
+    7400000: Protagonista_Anim
+    9500000: //RootNode
+    13700000: polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

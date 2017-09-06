@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8270e281b4d9eed40aec1d1d15d9a2a0
+timeCreated: 1504039441
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Doctor Soos Light
+  fontNames:
+  - Doctor Soos Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
